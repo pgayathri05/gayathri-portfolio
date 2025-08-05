@@ -1,9 +1,13 @@
-# gayathri-portfolio
-My personal portfolio website
+
+
+# Gayathri Portfolio
+
+Welcome to my personal portfolio website!
+
+## 📁 Project Structure
 
 
 
-Final structure will look like:
 
 gayathri-portfolio/
 ├── index.html
@@ -34,8 +38,9 @@ Edit
 
 ✅ Example Resume Download Button (HTML)
 html
-Copy
-Edit
+
+
+
 <a href="resume.pdf" download class="resume-button">Download Resume</a>
 
 
