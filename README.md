@@ -46,7 +46,9 @@ Copy
 Edit
 <section id="about">
   <h2>About Me</h2>
-  <p>I'm Gayathri, a Computer Science Engineering student with interests in AI, Web Dev, and solving real-world problems using technology.</p>
+  <p>I'm Gayathri Prabhakaran, a Computer Science Engineering student from Renganayagi Varatharaj College of Engineering, Sivakasi. I am passionate about web development, artificial intelligence, and building solutions that make a real-world impact. With hands-on experience in HTML, CSS, JavaScript, Python, and Java, I enjoy creating projects that combine creativity with logic. I am currently undergoing a Full Stack Web Development internship to further enhance my skills and grow as a software developer.
+
+</p>
 </section>
 
 <section id="skills">
