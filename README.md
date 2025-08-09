@@ -62,6 +62,6 @@ Edit
     <li>Java</li>
     <li>Python</li>
     <li>HTML, CSS, JS</li>
-    <li>SQL</li>
+    
   </ul>
 </section>
